@@ -8,4 +8,4 @@ I am an Active Directory Administrator and trying to learning Azure Active Direc
 
 *   🌍  I'm based in Madurai
 *   ✉️  You can contact me at [polymerarun8@gmail.com](mailto:polymerarun8@gmail.com)
-*   🧠  I'm learning DevOps
+*   🧠  I'm learning DevOps.
